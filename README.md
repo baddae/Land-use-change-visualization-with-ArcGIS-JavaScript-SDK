@@ -1,5 +1,3 @@
-# Land use change visualization with ArcGIS JavaScript SDK
-
 # Land Use Change Viewer with ArcGIS Pro API for JavaScript
 
 This project demonstrates how to use the ArcGIS Pro API for JavaScript to create a web application for visualizing land use changes over time. The application includes functionality to zoom to specific locations (Accra, Ghana, and Vancouver, Canada) and utilizes a time slider to show changes in land use classes between 2020 and 2100 with a 10 year temporal interval.
