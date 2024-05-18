@@ -29,6 +29,30 @@ This project demonstrates how to use the ArcGIS Pro API for JavaScript to create
 
 A sample land use change dataset has been included in the repository. This data represents a simulation of land use changes between 2020 and 2100 under the SSP 2 (Shared Socioeconomic Pathway 2) Scenario. However, please note that only part of Vancouver, Canada, and Accra, Ghana, are covered in this sample data. The dataset provides an example of how the application can be used to visualize and analyze land use changes over time. 
 
+## LICENSE
+The MIT License (MIT)
+
+Copyright (c) 2024 Bright Addae (https://codepen.io/baddae/pen/BaejmEB)
+Fork of an original work LAND USE CHANGE VIEWER WITH ArcGIS  JAVASCRIPT API (https://codepen.io/baddae/pen/BaejmEB)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
 
 
 
